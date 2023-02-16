@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: flasho
+    env: docker
+    autoDeploy: false
+    healthCheckPath: /signup

@@ -1,0 +1,1 @@
+FROM flashohq/flasho:latest
